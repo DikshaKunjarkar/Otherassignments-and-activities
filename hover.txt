@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+a:hover {
+  background-color: Green;
+}
+</style>
+</head>
+<body>
+
+<h1>For the hover selector</h1>
+
+<p>The :hover selector :</p>
+
+
+<a href="https://www.Bookmyshow.com">wikipedia.org</a>
+
+</body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#firstname {
+  background-color: yellow;
+}
+</style>
+</head>
+<body>
+
+<h1>Demo of the #id selector</h1>
+
+<div class="intro">
+  <p id="firstname">My name is Diksha.</p>
+  <p id="hometown">I live in Kunjarkar.</p>
+</div>
+
+<p>My best friend is Mayu and priya.</p>
+
+</body>
+</html>

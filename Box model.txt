@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+  width: 320px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+}
+</style>
+</head>
+<body>
+
+<h2>About Burger:</h2>
+
+<img src="55.jpg" width="350" height="263" alt="Klematis">
+<div>A burger is a patty of ground beef grilled and placed between two halves of a bun. Slices of raw onion, lettuce, bacon, mayonnaise, and other ingredients add flavor. Burgers are considered an American food but are popular around the world.</div>
+
+</body>
+</html>
