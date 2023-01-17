@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script>
+
+var tree = ["neem", "banan", "mango", "orange"]
+document.write(tree[0]);
+document.write(tree[1]);
+document.write(tree[2]);
+document.write(tree[tree.length -1]);
+document.write(tree.length);
+</script>
+
+
+<script>
+var name=["yatharth","nikhil","shivansh","bhavesh"]
+for(var i=0; i<name.length;i++){
+document.write(name[i]);
+}
+</script>
+
+<script>
+var game=["swimming","cycling","tennis","Boxing","shooting"];
+
+for(var games of game){
+document.write(game + "<br>");
+
+}
+</script>
+
+<script>
+var color=["red","yellow","pink","blue"];
+color.unshift("white");
+document.write(color);
+document.write(color.length);
+</script>
+
+<script>
+var color=["red","yellow","pink","blue"];
+color.push("black");
+document.write(color);
+document.write(color.length);
+</script>
+
+
+<script>
+var subject=["math","english","science","history"]
+remove =subject.splice(1,1,"marathi","geography")
+document.write(subject);
+
+</script>
+</body>
+</html>
