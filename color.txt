@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="background-color:DodgerBlue;">Hello World</h1>
+
+<p style="background-color:gary;">
+Networking, also known as computer networking, is the practice of transporting and exchanging data between nodes over a shared medium in an information system. Networking comprises not only the design, construction and use of a network, but also the management, maintenance and operation of the network infrastructure, software and policies..
+</p>
+
+</body>
+</html>

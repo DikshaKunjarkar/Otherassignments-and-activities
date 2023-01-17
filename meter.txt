@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Welcome to Edubridge Portal</h1>
+
+<p>School of Coding Certified Software Test Engineer (453 Hrs):</p>
+
+<label for="disk_c">25 % Completed:</label>
+<meter id="disk_c" value="2" min="0" max="10">2 out of 10</meter><br>
+
+<label for="disk_d">75 % Remaining:</label>
+<meter id="disk_d" value="0.6">60%</meter>
+
+<p><strong>Note:</strong> After Complition you will get msg like Congratulations, you just completed a training milestone!</p>
+
+</body>
+</html>

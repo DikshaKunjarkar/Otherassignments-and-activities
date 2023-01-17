@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Forms</h2>
+
+<form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="diksha"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="kunjarkar"><br><br>
+ <label for="add">add:</label><br>
+  <input type="text" id="add" name="Address" value="138 Bhole baba nagar"><br><br>
+  <input type="submit" value="Submit">
+</form> 
+
+<p>click on button</p>
+
+</body>
+</html>
